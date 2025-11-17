@@ -1,0 +1,39 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [152] using StatReload
+INFO:     Started server process [154]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:42474 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:42488 - "GET /freelancers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42506 - "GET /ads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42498 - "GET /forum/threads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42512 - "GET /freelancers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42524 - "GET /forum/threads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42536 - "GET /ads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58324 - "GET /freelancers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58336 - "GET /freelancers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58344 - "GET /ads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58348 - "GET /forum/threads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58358 - "GET /forum/threads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58374 - "GET /ads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52036 - "GET /freelancers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52040 - "GET /forum/threads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52042 - "GET /ads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52046 - "GET /forum/threads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52056 - "GET /ads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52072 - "GET /freelancers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52076 - "GET /freelancers?skill=f HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46990 - "GET /freelancers?skill=fr HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47002 - "GET /freelancers?skill=fro HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47014 - "GET /freelancers?skill=fron HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47030 - "GET /freelancers?skill=front HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52076 - "GET /freelancers?skill=fronte HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46990 - "GET /freelancers?skill=fronten HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47002 - "GET /freelancers?skill=frontend HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47014 - "GET /freelancers?skill=i%E2%80%99mfrontend HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47030 - "GET /freelancers?skill=i%E2%80%99m%20frontend HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52076 - "GET /freelancers?skill=i%E2%80%99mfrontend HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46990 - "GET /freelancers?skill=i%E2%80%99frontend HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47002 - "GET /freelancers?skill=ifrontend HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47014 - "GET /freelancers?skill=frontend HTTP/1.1" 200 OK
